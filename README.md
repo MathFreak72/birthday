@@ -1,2 +1,2 @@
 # birthday
-A birthday website for my best boi
+A birthday websit
